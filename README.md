@@ -1,2 +1,2 @@
 # DataSciencePincipleGroupProject
-author - sandip man singh mahat
+leader - sandip man singh mahat
